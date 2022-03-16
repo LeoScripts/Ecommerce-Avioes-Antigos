@@ -8,3 +8,7 @@ front-end de um ecommerce desenvolvido puramente em javascript, html e css
 - abra o `vscode` na pasta do projeto
 - selecione `index.html`
 - com o botao direito do mouse click `Open with live server`
+
+```diff
+! este projeto foi desenvolvido a alguns meses localmente sem o uso de vercinamento git
++ foi desenvolvido com o proposito de treino
