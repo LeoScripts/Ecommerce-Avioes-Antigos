@@ -2,7 +2,7 @@
 
 
 <div align="center" id="top"> 
-  <img src="./preview/avioes.gif" alt="Ecommerce Avioes Antigos" />
+  <img src="./preview/preview.png" alt="Ecommerce Avioes Antigos" />
 
   &#xa0;
 
