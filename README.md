@@ -2,7 +2,7 @@
 
 
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Ecommerce Avioes Antigos" />
+  <img src="./preview/avioes.gif" alt="Ecommerce Avioes Antigos" />
 
   &#xa0;
 
@@ -25,7 +25,7 @@
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Ecommerce Avioes Antigos 🚀 Under construction...  🚧
+	🚧  Ecommerce Avioes Antigos 🚀 🚧
 </h4> 
 
 <hr> -->
